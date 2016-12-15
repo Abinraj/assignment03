@@ -1,0 +1,36 @@
+#head
+{
+	
+	background-color:blue;
+	width:900px;
+	height:70px;
+	float:left;
+	
+	
+	
+}
+
+#info
+{
+
+   border-right-color:white;
+   border-right-style:solid;
+   font-size:20px;
+   color:white;
+   float:left;
+   padding-right:5px;
+   padding-left:5px;
+   
+   
+   
+}
+
+#content
+{
+	float:left;
+	font-size:20px;
+	color:white;
+	padding-right:5px;
+	padding-left:5px;
+}	
+
