@@ -1,4 +1,12 @@
-#head
+
+li:hover
+{
+background-color:yellow;
+}
+
+
+
+#header
 {
 	
 	background-color:blue;
@@ -10,27 +18,38 @@
 	
 }
 
-#info
+#main
 {
 
    border-right-color:white;
    border-right-style:solid;
-   font-size:20px;
+   font-size:25px;
    color:white;
    float:left;
-   padding-right:5px;
-   padding-left:5px;
+   padding-right:10px;
+   padding-left:10px;
    
    
    
 }
+#info
+{
+  border-right-color:white;
+   border-right-style:solid;
+   font-size:20px;
+   color:yellow;
+   float:left;
+   padding-right:10px;
+   padding-left:10px;
+   
 
-#content
+
+#register
 {
 	float:left;
-	font-size:20px;
+	font-size:12px;
 	color:white;
-	padding-right:5px;
-	padding-left:5px;
+	padding-right:10px;
+	padding-left:10px;
 }	
 
